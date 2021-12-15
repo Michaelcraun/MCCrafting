@@ -1,3 +1,5 @@
+echo "Unpacking custom recipes..."
+
 for file in *
 do
     if [ $file == "unpack.sh" ] 
@@ -12,6 +14,9 @@ do
     elif [ $file == "src" ]
     then
         echo "Skipping src directory..."
+    elif [ $file == "update.sh" ]
+    then 
+        echo "Skipping update.sh..."
     else
         cp -r $file ..
     fi
