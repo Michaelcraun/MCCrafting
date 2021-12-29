@@ -4,7 +4,7 @@ TEMP="$DIR/tmp"
 DATAPACKS="$DIR/datapacks"
 
 # Clone the repo fresh
-git clone $REPO $TEMP
+git clone $REPO tmp
 
 # Sync the tmp folder with the datapacks folder
 rsync -a -v "$TEMP/" "$DATAPACKS/"
@@ -16,4 +16,4 @@ rm -rf "$DATAPACKS/src"
 rm "$DATAPACKS/unpack.sh"
 rm "$DATAPACKS/update.sh"
 mv "$DATAPACKS/update_recipes.sh" "$DATAPACKS/../update_recipes.sh"
-rm -rf $TEMP
+rm -rf "$TEMP"
