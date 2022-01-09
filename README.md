@@ -18,6 +18,10 @@ broken up into the groups listed below.
 ### Alternate Crafting
 Alternate (potentially better) recipes for crafting in-game items.
 
+Better Trapdoors (default recipes now produce 12 wooden or 6 iron trapdoors)
+
+![Wooden Trapdoors](src/trapdoors.gif)
+
 ### Back to Blocks
 These recipes allow you to convert crafted items back into their full block form.
 
@@ -81,11 +85,7 @@ Chorus Fruit to Purple Dye
 ### Expanded Crafting
 These recipes are improvements on recipes that already exist in-game.
 
-Better Trapdoors (default recipes now produce 12 wooden or 6 iron trapdoors)
-
-![Wooden Trapdoors](src/trapdoors.gif)
-
-Dropper to Dispanser
+Dropper to Dispenser
 
 ![Dropper to Dispanser](src/dropper_to_dispenser.png)
 
@@ -104,7 +104,7 @@ These recipes allow you to pack components into their condensed form and vice-ve
 
 Blue Ice -> Packed Ice -> Ice
 
-![Blue Ice to Packed Ice](src/ice.gif)
+![Blue Ice -> Packed Ice -> Ice](src/ice.gif)
 
 Flint to Gravel
 
