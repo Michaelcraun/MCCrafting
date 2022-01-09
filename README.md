@@ -1,5 +1,5 @@
 <!--TODO:
-- [] Add information about installing bug fix updates
+- [] Add information about installing updates
 -->
 
 # MCCrafting
@@ -8,7 +8,7 @@ Purpose to come!
 ## Definitions
 **Shapeless**: A shapeless recipe means that you can place the items required
 to craft the recipe anywhere in your crafting menu to obtain craft the item(s)
-listed. These recipes are denoted in this README in the following format: 
+listed. These recipes are noted in this README in the following format: 
 ***Recipe Name (Shapeless)***
 
 ## Recipes
@@ -20,18 +20,19 @@ Alternate (potentially better) recipes for crafting in-game items.
 
 Better Trapdoors (default recipes now produce 12 wooden or 6 iron trapdoors)
 
-![Wooden Trapdoors](src/trapdoors.gif)
+![Better Trapdoors](src/trapdoors.gif)
 
 ### Back to Blocks
-These recipes allow you to convert crafted items back into their full block form.
+These recipes allow you to convert crafted items back into their full block 
+form. These recipes work with ALL variants (i.e., acaia, stone, crimson, etc.).
 
-Slabs to Blocks
+Slabs
 
-![Slabs to Blocks](src/slabs_to_blocks.gif)
+![Slabs](src/slabs_to_blocks.png)
 
-Stairs to Blocks
+Stairs
 
-![Stairs to Blocks](src/stairs_to_blocks.gif)
+![Stairs](src/stairs_to_blocks.png)
 
 ### Cooking
 These recipes present expanded options for cooking items.
@@ -91,13 +92,14 @@ Dropper to Dispenser
 
 Magma Crean to Slimeball
 
-![Magma Crean to Slimeballs](src/magma_cream_to_slimeball.png)
+![Magma Cream to Slimeballs](src/magma_cream_to_slimeball.png)
 
 Redyeable Items
+
 All dyed candles, carpet, concrete powder, glass, glass panes, terracotta, and
 wool can now be redyed to a different color.
 
-![Redyeable Items](src/redyeables.png)
+![Redyeable Items](src/redyeables.gif)
 
 ### Packables
 These recipes allow you to pack components into their condensed form and vice-versa.
