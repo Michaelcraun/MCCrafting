@@ -1,0 +1,1 @@
+{"type": "minecraft:crafting_shaped", "pattern": ["###", "#R#", "###"], "key": {"#": {"tag": "minepi:any_glass"}, "R": {"item": "minecraft:green_dye"}}, "result": {"item": "minecraft:green_glass", "count": 8}}
