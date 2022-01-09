@@ -1,0 +1,1 @@
+{"type": "minecraft:crafting_shaped", "pattern": ["###", "#R#", "###"], "key": {"#": {"tag": "minepi:any_terracotta"}, "R": {"item": "minecraft:cyan_dye"}}, "result": {"item": "minecraft:cyan_terracotta", "count": 8}}
