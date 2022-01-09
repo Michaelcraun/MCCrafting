@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        {
+            "item": "minecraft:blackstone"
+        },
+        {
+            "item": "minecraft:blackstone"
+        },
+        {
+            "item": "minecraft:blackstone"
+        },
+        {
+            "item": "minecraft:blackstone"
+        }
+    ],
+    "result": {
+        "item": "minecraft:gilded_blackstone",
+        "count": 8
+    }
+}

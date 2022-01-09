@@ -5,9 +5,15 @@
 # MCCrafting
 Purpose to come!
 
-## Recipes
-This Minecraft datapack includes several quality-of-life recipes that have been broken up into the groups listed below.
+## Definitions
+**Shapeless**: A shapeless recipe means that you can place the items required
+to craft the recipe anywhere in your crafting menu to obtain craft the item(s)
+listed. These recipes are denoted in this README in the following format: 
+***Recipe Name (Shapeless)***
 
+## Recipes
+This Minecraft datapack includes several quality-of-life recipes that have been
+broken up into the groups listed below.
 
 ### Alternate Crafting
 Alternate (potentially better) recipes for crafting in-game items.
@@ -56,6 +62,10 @@ Nametag
 Saddle
 
 ![Saddle](src/saddle.png)
+
+Gilded Blackstone (Shapeless)
+
+![Gilded Blackstone](src/gilded_blackstone.png)
 
 ### Dyes
 These recipes encompass alternate ways to get different dyes.
