@@ -18,9 +18,15 @@ broken up into the groups listed below.
 ### Alternate Crafting
 Alternate (potentially better) recipes for crafting in-game items.
 
-Better Trapdoors (default recipes now produce 12 wooden or 6 iron trapdoors)
+Better Trapdoors 
+
+The default recipes for crafting trapdoors now produce 12 wooden or 6 iron 
+trapdoors. **NOTE:** This recipe does not currently work for crimson and warped
+trapdoors (this seems to be a bug in 1.18).
 
 ![Better Trapdoors](src/trapdoors.gif)
+
+</br>
 
 ### Back to Blocks
 These recipes allow you to convert crafted items back into their full block 
@@ -34,6 +40,8 @@ Stairs
 
 ![Stairs](src/stairs_to_blocks.png)
 
+</br>
+
 ### Cooking
 These recipes present expanded options for cooking items.
 
@@ -44,6 +52,8 @@ Rotten Flesh to Leather
 Rotten Flesh to Porkchop (Works in furnace and smoker)
 
 ![Rotten Flesh to Porkchop](src/smoker_rotten_flesh_to_porkchop.png)
+
+</br>
 
 ### Custom Craftables
 At the time of writing, there is currently no way to craft the items in this section.
@@ -72,6 +82,8 @@ Gilded Blackstone (Shapeless)
 
 ![Gilded Blackstone](src/gilded_blackstone.png)
 
+</br>
+
 ### Dyes
 These recipes encompass alternate ways to get different dyes.
 
@@ -82,6 +94,8 @@ Charcoal or Coal to Black Dye
 Chorus Fruit to Purple Dye
 
 ![Chorus Fruit to Purple Dye](src/chorus_to_purple_dye.gif)
+
+</br>
 
 ### Expanded Crafting
 These recipes are improvements on recipes that already exist in-game.
@@ -100,6 +114,8 @@ All dyed candles, carpet, concrete powder, glass, glass panes, terracotta, and
 wool can now be redyed to a different color.
 
 ![Redyeable Items](src/redyeables.gif)
+
+</br>
 
 ### Packables
 These recipes allow you to pack components into their condensed form and vice-versa.
@@ -127,6 +143,8 @@ Sandstone to Sand
 White Wool to String
 
 ![White Wool to String](src/wool_to_string.png)
+
+</br>
 
 ## Installation
 More to come!
