@@ -7,7 +7,7 @@ about: Please use this template when requesting a new recipe.
 **What item are you trying to craft?**
 
 
-**Is this item something you currenlty cannot craft?**
+**Is this item something you currently cannot craft?**
 - [ ] Yes
 - [ ] No
 
