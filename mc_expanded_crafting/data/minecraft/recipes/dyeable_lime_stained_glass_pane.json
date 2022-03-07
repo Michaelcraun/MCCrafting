@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###", "#R#", "###"], "key": {"#": {"tag": "minepi:any_stained_glass_pane"}, "R": {"item": "minecraft:lime_dye"}}, "result": {"item": "minecraft:lime_stained_glass_pane", "count": 8}}
+{"type": "minecraft:crafting_shaped", "pattern": ["###", "#R#", "###"], "key": {"#": {"tag": "mccrafting:any_stained_glass_pane"}, "R": {"item": "minecraft:lime_dye"}}, "result": {"item": "minecraft:lime_stained_glass_pane", "count": 8}}
