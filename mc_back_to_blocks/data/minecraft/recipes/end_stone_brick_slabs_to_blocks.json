@@ -1,1 +1,27 @@
-{"type": "minecraft:crafting_shapeless", "result": {"count": 3, "item": "minecraft:end_stone_bricks"}, "ingredients": [{"item": "minecraft:end_stone_brick_slab"}, {"item": "minecraft:end_stone_brick_slab"}, {"item": "minecraft:end_stone_brick_slab"}, {"item": "minecraft:end_stone_brick_slab"}, {"item": "minecraft:end_stone_brick_slab"}, {"item": "minecraft:end_stone_brick_slab"}]}
+{
+    "type": "minecraft:crafting_shapeless",
+    "result": {
+        "count": 3,
+        "item": "minecraft:end_stone_bricks"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:end_stone_brick_slab"
+        },
+        {
+            "item": "minecraft:end_stone_brick_slab"
+        },
+        {
+            "item": "minecraft:end_stone_brick_slab"
+        },
+        {
+            "item": "minecraft:end_stone_brick_slab"
+        },
+        {
+            "item": "minecraft:end_stone_brick_slab"
+        },
+        {
+            "item": "minecraft:end_stone_brick_slab"
+        }
+    ]
+}

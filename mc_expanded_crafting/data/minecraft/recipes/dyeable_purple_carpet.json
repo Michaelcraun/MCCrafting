@@ -1,1 +1,1 @@
-{"type": "minecraft:crafting_shaped", "pattern": ["###", "#R#", "###"], "key": {"#": {"tag": "minepi:any_carpet"}, "R": {"item": "minecraft:purple_dye"}}, "result": {"item": "minecraft:purple_carpet", "count": 8}}
+{"type": "minecraft:crafting_shaped", "pattern": ["###", "#R#", "###"], "key": {"#": {"tag": "mccrafting:any_carpet"}, "R": {"item": "minecraft:purple_dye"}}, "result": {"item": "minecraft:purple_carpet", "count": 8}}

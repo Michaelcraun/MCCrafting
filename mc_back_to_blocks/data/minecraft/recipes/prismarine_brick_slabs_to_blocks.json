@@ -1,1 +1,33 @@
-{"type": "minecraft:crafting_shapeless", "result": {"count": 3, "item": "minecraft:prismarine_bricks"}, "ingredients": [{"item": "minecraft:prismarine_brick_slab"}, {"item": "minecraft:prismarine_brick_slab"}, {"item": "minecraft:prismarine_brick_slab"}, {"item": "minecraft:prismarine_brick_slab"}, {"item": "minecraft:prismarine_brick_slab"}, {"item": "minecraft:prismarine_brick_slab"}]}
+{
+    "type": "minecraft:crafting_shapeless",
+    "result": {
+        "count": 3,
+        "item": "minecraft:prismarine_bricks"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:prismarine_brick_slab",
+            "data": 0
+        },
+        {
+            "item": "minecraft:prismarine_brick_slab",
+            "data": 0
+        },
+        {
+            "item": "minecraft:prismarine_brick_slab",
+            "data": 0
+        },
+        {
+            "item": "minecraft:prismarine_brick_slab",
+            "data": 0
+        },
+        {
+            "item": "minecraft:prismarine_brick_slab",
+            "data": 0
+        },
+        {
+            "item": "minecraft:prismarine_brick_slab",
+            "data": 0
+        }
+    ]
+}

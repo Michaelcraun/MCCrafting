@@ -7,10 +7,10 @@
     ],
     "key": {
         "#": {
-            "tag": "minepi:any_coral_block"
+            "tag": "mccrafting:any_coral_block"
         },
         "A": {
-            "tag": "minepi:any_wool"
+            "tag": "mccrafting:any_wool"
         }
     },
     "result": {
