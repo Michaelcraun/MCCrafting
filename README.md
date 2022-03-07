@@ -58,6 +58,10 @@ Rotten Flesh to Porkchop (Works in furnace and smoker)
 ### Custom Craftables
 At the time of writing, there is currently no way to craft the items in this section.
 
+Spore Blossom
+
+![Spore Blossom](src/spore_blossom.png)
+
 Sponge (works with any wool and any coral (1 sponge) or coral block (9 sponge))
 
 ![Sponge](src/any_coral_and_wool_to_sponge.png)
@@ -99,6 +103,10 @@ Chorus Fruit to Purple Dye
 
 ### Expanded Crafting
 These recipes are improvements on recipes that already exist in-game.
+
+Dripstone Spikes
+
+![Dripstone Spikes](src/dripstone_to_dripstone_spikes.png)
 
 Dropper to Dispenser
 
