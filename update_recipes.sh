@@ -1,19 +1,18 @@
 DIR="$( cd "$( dirname "$0" )" && pwd )"
 REPO="https://github.com/Michaelcraun/MCCrafting.git"
 TEMP="$DIR/tmp"
-DATAPACKS="$DIR/datapacks"
 
 # Clone the repo fresh
-git clone $REPO tmp
+git clone "$REPO" "$TEMP"
 
 # Sync the tmp folder with the datapacks folder
-rsync -a -v "$TEMP/" "$DATAPACKS/"
+echo "Syncing datapacks..."
+rsync -a "$TEMP/" "$DIR/"
 
 # Clean up
-rm "$DATAPACKS/newpack.sh"
-rm "$DATAPACKS/README.md"
-rm -rf "$DATAPACKS/src"
-rm "$DATAPACKS/unpack.sh"
-rm "$DATAPACKS/update.sh"
-mv "$DATAPACKS/update_recipes.sh" "$DATAPACKS/../update_recipes.sh"
+echo "Cleaning up..."
+rm "$DIR/newpack.sh"
+rm "$DIR/README.md"
+rm -rf "$DIR/src"
+rm "$DIR/unpack.sh"
 rm -rf "$TEMP"

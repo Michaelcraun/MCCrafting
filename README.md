@@ -1,9 +1,24 @@
-<!--TODO:
-- [] Add information about installing updates
--->
-
 # MCCrafting
 Purpose to come!
+
+## Installation
+Installation of this collection of recipes can be accomplished by simply cloning
+the repo and running the `unpack.sh` shell script, passing it the directory of
+your world's datapacks directory. (i.e., `./unpack.sh ~/server/world/datapacks`)
+
+This command will copy the needed contents of this recipe collection to your
+datapacks directory and deletes the cloned directory after installation. After
+this is complete, simply restarting your world or using the `/reload` command
+will update your datapacks.
+
+## Updates
+This recipe collection will receive periodic updates. To install these updates,
+the `update_recipes.sh` shell script can be called from inside your world's
+datapacks directory. This will automatically follow the installation process as
+described above, getting you the latest changes.
+
+**NOTE:** Updating this recipe collection still requires you to restart or
+reload your world to update the world's datapacks.
 
 ## Definitions
 **Shapeless**: A shapeless recipe means that you can place the items required
@@ -153,9 +168,3 @@ White Wool to String
 ![White Wool to String](src/wool_to_string.png)
 
 </br>
-
-## Installation
-More to come!
-
-## Updates
-More to come!
