@@ -114,6 +114,14 @@ Chorus Fruit to Purple Dye
 
 ![Chorus Fruit to Purple Dye](src/chorus_to_purple_dye.gif)
 
+Green Dye Alternative
+
+![Green Dye Alternative](src/green_dye.png)
+
+Lime Dye Alternative
+
+![Lime Dye Alternative](src/lime_dye.png)
+
 </br>
 
 ### Expanded Crafting
